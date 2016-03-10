@@ -52,7 +52,7 @@ def openpickle():
 
 def main():
     proc_labl_tweets = openpickle()
-    print len(proc_labl_tweets)
+    print proc_labl_tweets
     # idx_tweet_dict, idx_category_dict = separate_PLT(proc_labl_tweets)
     # x_train, y_train = make_xy_train(idx_tweet_dict, idx_category_dict)
     # build_MNBC_model(x_train, y_train)
