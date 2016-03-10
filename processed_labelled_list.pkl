@@ -1,0 +1,442 @@
+(lp0
+(Vblah blah full flight blah nailed blah screen blah blah blah territory
+p1
+I2
+tp2
+a(Vblah blah gets basket foul go line chance tie game
+p3
+I2
+tp4
+a(Vreport include mention blah slapping backboard fwiw think blah hitting board consequential
+p5
+I2
+tp6
+a(Vblah blah blah blah blah blah http
+p7
+I2
+tp8
+a(Vtied blah timeout pistons ca get nets broken
+p9
+I2
+tp10
+a(Vcamper blah blah tearing blah ( video highlights ) https
+p11
+I2
+tp12
+a(Vblah blah said talks personnel decisions guys founding fathers organization
+p13
+I2
+tp14
+a(Vbig difference lakings year blah shootouts last season blah shootouts
+p15
+I2
+tp16
+a(Vblah blah out hornets tonight
+p17
+I0
+tp18
+a(Vblah blah pajama pants get game online midnight et https https
+p19
+I2
+tp20
+a(Vsecond chance points last two games blah five tonight
+p21
+I2
+tp22
+a(Vfirst look upcoming episode blah blah https
+p23
+I2
+tp24
+a(Vblah blah blah blah out blah today guess means blah blah playing
+p25
+I0
+tp26
+a(Vblah blah deal worked out blah roster moves back players league max
+p27
+I1
+tp28
+a(Vblah blah blah blah out blah blah tonight
+p29
+I0
+tp30
+a(Vanother solid ball denial blah blah
+p31
+I2
+tp32
+a(Vsec left half blah already half season lead clippers
+p33
+I2
+tp34
+a(Vblah blah awesomeness going end poorly blah blah least far fan perception concerned
+p35
+I2
+tp36
+a(Vscouting blah veteran scout ( expert ) evaluates player https via mysa
+p37
+I2
+tp38
+a(Valso predicted see half players dealt last year players guessed deadline counted yet
+p39
+I2
+tp40
+a(Vcall confirmed out blah pick blah blah complete double play
+p41
+I0
+tp42
+a(Vblah shooting percent ( ) percent ( )
+p43
+I2
+tp44
+a(Vblah blah blah running exactly days game lot ( ) http
+p45
+I2
+tp46
+a(Vcousins checking not surprisingly blah joins scorer table
+p47
+I2
+tp48
+a(Vgoing blah leading twolves blah allows points average twolves allow two best blah
+p49
+I2
+tp50
+a(Vblah go bad worse awful column blah blah stltoday https
+p51
+I2
+tp52
+a(Vdraymond blah struggling blah built ( tough times ) continue stay positive https
+p53
+I2
+tp54
+a(Vthings pt contest right blah blah not bad blah blah fire blah deserved win
+p55
+I2
+tp56
+a(Vblah blah fyi blah blah blah blah gone blah blah blah atop players quitting leaderb
+p57
+I2
+tp58
+a(Vblah blah pregame blah looking young superstar really maturing really playing total game
+p59
+I2
+tp60
+a(Vrockets ball movement better eight assists would indicate tough get assists rockets run
+p61
+I2
+tp62
+a(Vicymi blah story ( video ) blah blah like ( look years ahead ) https sixers
+p63
+I2
+tp64
+a(Vblah fourth foul play third period time late minutes might limited foul trouble
+p65
+I2
+tp66
+a(Vend
+p67
+I2
+tp68
+a(Vblah blah blah blah us wishing blah blah blah blah blah blah https
+p69
+I2
+tp70
+a(Vfour minutes go first blah trail blah blah blah blah piece https
+p71
+I2
+tp72
+a(Vca believe game amount missed shots rim shooting ya
+p73
+I2
+tp74
+a(Vforgot much hated blah games sounds like not going away time soon
+p75
+I2
+tp76
+a(Vphillies starter blah blah blah righty blah blah college teammates two season blah
+p77
+I2
+tp78
+a(Vblah makes blah tied seconds go place kinda loud way
+p79
+I2
+tp80
+a(Vblah one quarter
+p81
+I2
+tp82
+a(Vblah blah hunch start blah half already looking good causing problems lakers defensive end
+p83
+I1
+tp84
+a(Vtonight learned cbrueywftv not fear bees
+p85
+I2
+tp86
+a(Vblah blah https
+p87
+I2
+tp88
+a(Vblah funny blah talking pregame felt like out rhythm last game think found
+p89
+I2
+tp90
+a(Vgoing talk lakers sportsreiter pm today
+p91
+I2
+tp92
+a(Vblah blah blah mercurial blah blah blah greatest coffee servin state struter run mic ever
+p93
+I2
+tp94
+a(Vreal bad timing possible blah suspension blah big issue series blah bench blah bench
+p95
+I2
+tp96
+a(Vblah blah gintautasd two blah articles head mbta https
+p97
+I2
+tp98
+a(Vblah blah right ankle sprain not return thunder
+p99
+I0
+tp100
+a(Vfeels like another game
+p101
+I2
+tp102
+a(Vunderwhelming blah blah ( combined ) blah runs blah buzzer beating blah wolves playing
+p103
+I2
+tp104
+a(Vopening night blah confident says get punched mouth find out https
+p105
+I2
+tp106
+a(Vblah blah blah mets surpass royals biggest lead blah games
+p107
+I2
+tp108
+a(Vmade much sense deny guy https
+p109
+I2
+tp110
+a(Vblah blah denvernuggets fans know although hell american blah longer team moved
+p111
+I2
+tp112
+a(Vjennings three game season treys ( blah games ) blah
+p113
+I2
+tp114
+a(Vblah blah blah said right hand fine simply dealing stinger
+p115
+I1
+tp116
+a(Vevery blah game blah blah give post game wrap blah last nights https
+p117
+I2
+tp118
+a(Vnuggets held blah pts first quarter blah line chance cut blah lead
+p119
+I2
+tp120
+a(S'blah blah'
+p121
+I2
+tp122
+a(Vblah blah starting blah blah blah blah joining blah blah blah blah
+p123
+I1
+tp124
+a(Vnew blah blah blah blah blah blah https
+p125
+I2
+tp126
+a(Vstevekylernba blah injuries indeed overuse ca blame blah playing mpg blah back high school summers etc
+p127
+I2
+tp128
+a(Vlet take look behind scenes blah player intro https
+p129
+I2
+tp130
+a(Vblah blah rounding near blah form last year next step improve among best last yr cont
+p131
+I2
+tp132
+a(Vhike ( leashed ) fave blah place walk dog exploreaz http http
+p133
+I2
+tp134
+a(Vpistons blah drummond picks second straight blah blah player week award averaging points rebonds
+p135
+I2
+tp136
+a(Vpacers end third run take lead blah fourth
+p137
+I2
+tp138
+a(Vcompared fiasco blah blah hoop game blah time well spent https
+p139
+I2
+tp140
+a(Vsix layups dunks wizards six minutes
+p141
+I2
+tp142
+a(Vblah really going enemy spoils blah highlight stripping breakaway
+p143
+I2
+tp144
+a(Vmeet https
+p145
+I2
+tp146
+a(Vcurious blah giving felton ty chan
+p147
+I2
+tp148
+a(Vblah contract blah blah blah needs think long wants point need succession planning
+p149
+I2
+tp150
+a(Vpacers update blah update tomorrow blah blah blah blah ( dental work ) blah miles questionable ( sore lower back )
+p151
+I0
+tp152
+a(Vblah pistons blah blah sees opportunity pistons make move blah blah standings http
+p153
+I2
+tp154
+a(Vblah upset call blah drive final minute extended conversation ref blah blah end half
+p155
+I2
+tp156
+a(Vblah blah blah blah blah coming hub signing world hub blah place gritngrind
+p157
+I2
+tp158
+a(Vmeanwhile blah blah points boards blah ( mins left blah )
+p159
+I2
+tp160
+a(Vblah blah blah blah blah blah long time comin stadium rocking city alive
+p161
+I2
+tp162
+a(Vblog blah blah blah blah blah http celtics
+p163
+I1
+tp164
+a(Vmany thanks https
+p165
+I2
+tp166
+a(Vkings go blah blah locker room blah blah blah blah blah blah fouled out
+p167
+I2
+tp168
+a(Vblah blah blah pistons blah blah usually make move starts
+p169
+I2
+tp170
+a(Vtook notes blah stadium deal https
+p171
+I2
+tp172
+a(Vone blah loss away blah blah turning excitement guy https
+p173
+I2
+tp174
+a(Vblah hopeful blah cleared practice couple days maybe blah
+p175
+I1
+tp176
+a(Vblah blah outsidethenba cmon teams start going crazy https
+p177
+I2
+tp178
+a(Vblah blah rewarded excellent blah named blah blah blah player month
+p179
+I2
+tp180
+a(Vblah blah blah blah blah blah inactives
+p181
+I0
+tp182
+a(Vpelicans point guard blah blah starting tonight blah not play blah blah
+p183
+I0
+tp184
+a(Vblah blah blah preview something got ta give blah worst teams meet blah http
+p185
+I2
+tp186
+a(Vforget check blah stats blah blah ( https ) sponsored blah blah https
+p187
+I2
+tp188
+a(Vceltics blah blah blah blah blah blah blah blah ( via blah blah ) http http
+p189
+I2
+tp190
+a(Vblah blah not shoot making two row excuse
+p191
+I2
+tp192
+a(Vblah blah idea fouled blah play blah
+p193
+I2
+tp194
+a(Vblah man wearing blah blah jersey spotted blah blah blah
+p195
+I2
+tp196
+a(Vblah blah heading seventh blah allowed sixth
+p197
+I2
+tp198
+a(Vblah blah ktsharp blah blah hits blah road blah blah blah blah blah blah blah blah
+p199
+I2
+tp200
+a(Vfeatures players ranked blah win shares value replacement player ( blah blah ) blah
+p201
+I2
+tp202
+a(Vblah blah solohill rest peace mel daniels crazy walking locker room yesterday
+p203
+I2
+tp204
+a(Vwrote blog blah blah soon blah blah blah blah nuggets blah nothingbutnyet
+p205
+I2
+tp206
+a(Vone thing blah always hands hit head ball blah
+p207
+I2
+tp208
+a(Vblah blah weighs blah fight http
+p209
+I2
+tp210
+a(Vjoining bobsansevere blah twolves talk blah blah blah blah blah comes
+p211
+I2
+tp212
+a(Vkings confirmed blah blah out pelicans game corneal abrasion
+p213
+I0
+tp214
+a(Vbucks fall summer league finale blah wolters finished strong pts shooting
+p215
+I2
+tp216
+a(Vwell vote first half blah blah nuggets https
+p217
+I2
+tp218
+a(Vshame going line http
+p219
+I2
+tp220
+a.
