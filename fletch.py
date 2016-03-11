@@ -97,9 +97,12 @@ def outpickle(final_preprocessed_tweet_and_classification):
 def main():
     # print final_preprocessed_tweet_and_classification[:100]
     labelled_tweets_zip = openpickle()
-    reversed_labelled_tweets_zip = converttweets(labelled_tweets_zip)
-    preprocesstokenize(reversed_labelled_tweets_zip)
-    outpickle(final_preprocessed_tweet_and_classification)
+    for x in labelled_tweets_zip:
+        if x[0] < 2:
+            print x
+    # reversed_labelled_tweets_zip = converttweets(labelled_tweets_zip)
+    # preprocesstokenize(reversed_labelled_tweets_zip)
+    # outpickle(final_preprocessed_tweet_and_classification)
 
 if __name__ == '__main__':
     main()
